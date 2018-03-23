@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">MyAlphabet</string>
+    <string name="app_name">Godzilla</string>
+    <string name="points_msg">Points : 0</string>
+    <color name="white">#fff</color>
 </resources>
